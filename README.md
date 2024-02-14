@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @artemius466
-- 👀 I’m interested in python
-- 🌱 I’m currently learning JavaScript
-- 🏢 I am currently working on puzhius game
-
-<!---
-Just pezha :)
---->
+- 👀 I’m interested in C++/Lua
+- 🌱 I’m currently learning Lua
+- 🏢 I am currently working on mods for sm64ex-coop
+- 🧠 I know: Python, C++, JavaScript, Lua, Processing
