@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @artemius466
-- 👀 I’m interested in C++/Lua
-- 🌱 I’m currently learning Lua
-- 🏢 I am currently working on mods for sm64ex-coop
-- 🧠 I know: Python, C++, JavaScript, Lua, Processing
+- 👋 Hi, I’m Artemius466
+- 👀 I’m interested in C++/C#/Python
+- 🌱 I’m currently learning NOTHING LOL
+- 🏢 I am currently working on mods for Gorilla Tag
+- 🧠 I know: Python, C++, JavaScript, Lua, Processing, HTML (maybe), Css(?), C#
