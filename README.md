@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Artemius466
-- 👀 I’m interested in C++/C#/Python
-- 🌱 I’m currently learning NOTHING LOL
-- 🏢 I am currently working on mods for Gorilla Tag
-- 🧠 I know: Python, C++, JavaScript, Lua, Processing, HTML (maybe), Css(?), C#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=artemius466.fun;C%2B%2B%2C+C%23%2C+Python%2C+Java+developer;Zhuzhius+developer)](https://git.io/typing-svg)
+
+Omg developing fucking loader fuck C++
