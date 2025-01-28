@@ -1,1 +1,1 @@
-fuck C++
+making cool things sometimes
